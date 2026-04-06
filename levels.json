@@ -1,0 +1,95 @@
+{
+ "version": "1.0",
+ "levels": [
+  {
+   "p1": "Es ist überlebensnotwendig.",
+   "p2": "Wenn du es nicht tust, stirbst du nach spätestens 30 Tagen.",
+   "p3": "Zu viel ist ungesund.",
+   "word": "essen"
+  },
+  {
+   "p1": "In Deutschland ist sie verpflichtend.",
+   "p2": "Der eine mag sie, der andere hasst sie.",
+   "p3": "Lehrer unterrichten dort.",
+   "word": "Schule"
+  },
+  {
+   "p1": "Es handelt sich um ein Haustier.",
+   "p2": "Pudel ist eine Rasse davon.",
+   "p3": "Treuer als eine Katze.",
+   "word": "Hund"
+  },
+  {
+   "p1": "Es bringt dich fast überall hin.",
+   "p2": "Es ist eine teure Anschaffung.",
+   "p3": "Man benötigt einen Führerschein.",
+   "word": "Auto"
+  },
+  {
+   "p1": "Es ist extrem heiß.",
+   "p2": "Ohne wären wir nicht am Leben.",
+   "p3": "Es erzeugt durch Kernfusion Licht und Wärme.",
+   "word": "Sonne"
+  },
+  {
+   "p1": "Es kombiniert Töne und Klänge.",
+   "p2": "Es gibt verschiedene Stile und Genres davon.",
+   "p3": "Es kann ohne Worte verstanden werden.",
+   "word": "Musik"
+  },
+  {
+   "p1": "Es ist in unterschiedlichen Arten vorhanden.",
+   "p2": "Man kann einen Menschen damit töten.",
+   "p3": "Eigentlich ist es dafür aber nicht gemacht.",
+   "word": "Messer"
+  },
+  {
+   "p1": "Vor 50 Jahren war es Science-Fiction.",
+   "p2": "Heute gehört es zum Alltag.",
+   "p3": "Du hast wahrscheinlich eines in deiner unmittelbaren Nähe.",
+   "word": "Smartphone"
+  },
+  {
+   "p1": "Die Tage sind währenddessen lang, die Nächte hingegen kurz.",
+   "p2": "Viele finden, es sei die schönste Zeit im Jahr.",
+   "p3": "Viele gehen in dieser Zeit in den Urlaub.",
+   "word": "Sommer"
+  },
+  {
+   "p1": "Es ermöglicht schnellere Fortbewegung auch ohne Auto.",
+   "p2": "Ein Motor ist nicht erforderlich.",
+   "p3": "Es ist umweltfreundlich.",
+   "word": "Fahrrad"
+  },
+  {
+   "p1": "Es verbreitet sich leicht und schnell.",
+   "p2": "Wenn man es hat, will man es schnell loswerden.",
+   "p3": "Es tritt häufiger im Winter auf.",
+   "word": "Erkältung"
+  },
+  {
+   "p1": "Ohne es würden viele den Tag nicht überstehen.",
+   "p2": "Die Zubereitung kann aufwendig, aber auch einfach sein.",
+   "p3": "Es wird üblicherweise heiß konsumiert.",
+   "word": "Kaffee"
+  },
+  {
+   "p1": "Es ist die wohl beliebteste legale Droge auf der Welt.",
+   "p2": "Es trübt die Sinneswahrnehmung.",
+   "p3": "Kann bei zu starkem Konsum tödlich sein.",
+   "word": "Alkohol"
+  },
+  {
+   "p1": "Es ist ein Ort zum Einkaufen.",
+   "p2": "Es verfügt über eine große Produktvielfalt.",
+   "p3": "Meistens werden dort Lebensmittel gekauft.",
+   "word": "Supermarkt"
+  },
+  {
+   "p1": "Es ist für die Wirtschaft essenziell.",
+   "p2": "Es ist in unterschiedlichen Formen vorhanden.",
+   "p3": "Manch einer bevorzugt die physische Form.",
+   "word": "Geld"
+  }
+ ]
+}
